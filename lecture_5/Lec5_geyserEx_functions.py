@@ -6,7 +6,7 @@
 
 import matplotlib.pyplot as plt
 
-def read_snuffler_marker(filen, length=1, nojul=0):
+def read_snuffler_marker(filen, length=0, nojul=0):
     """
     Helper function to read snuffler marker.
     :type filen: string
